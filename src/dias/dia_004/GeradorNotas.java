@@ -5,13 +5,6 @@ import java.util.Scanner;
 public class GeradorNotas {
     public static void main(String[] args) {
         // Desafio diário: 04/100
-        // Wrappers
-        // Conversão de tipos primitivos
-        // Conversão de numérico para string
-        // Conversão de string para numérico
-        // Import
-        // Console (Scanner)
-        // Tipo String
 
 
         Scanner entrada = new Scanner(System.in);

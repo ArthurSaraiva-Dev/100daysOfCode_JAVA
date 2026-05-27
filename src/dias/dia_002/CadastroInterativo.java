@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class CadastroInterativo {
     public static void main(String[] args) {
         // Desafio diário: 02/100
-        // Import; Console(Scanner); Tipo String
 
         // Desafio do Dia: Cadastro interativo de Cliente
 

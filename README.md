@@ -20,4 +20,4 @@ Repositório criado para registrar minha jornada no desafio #100DaysOfCode, foca
 | 007  | Fundamentais JAVA | Contador De Upgrades | [Código](src/dias/dia_007) |
 
 ---
-*Desafio iniciado em: [20/07/2026]*
+*Desafio iniciado em: [20/05/2026]*

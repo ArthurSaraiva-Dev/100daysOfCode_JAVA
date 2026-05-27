@@ -6,7 +6,6 @@ public class OrdemServico {
         // Tipos primitivos
 
         // Desafio do Dia: O Sistema de uma Oficina de Computadores
-
         // Computadores para conserto
         int pcs = 5;
 

@@ -17,7 +17,7 @@ Repositório criado para registrar minha jornada no desafio #100DaysOfCode, foca
 | 004  | Wrappers & Conversão de Tipos - Gerador De Notas | [Código](src/dias/dia_004) |
 | 005  | Operadores Aritméticos - Otimizador Servidor | [Código](src/dias/dia_005) |
 | 006  | Operadores (Geral) - Diagnósticos de Computadores | [Código](src/dias/dia_006) |
-| 003  | Fundamentais JAVA - Contador De Upgrades | [Código](src/dias/dia_007) |
+| 007  | Fundamentais JAVA - Contador De Upgrades | [Código](src/dias/dia_007) |
 
 ---
 *Desafio iniciado em: [20/07/2026]*

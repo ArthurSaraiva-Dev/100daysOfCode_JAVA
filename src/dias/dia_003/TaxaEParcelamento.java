@@ -5,10 +5,6 @@ import java.util.Scanner;
 public class TaxaEParcelamento {
     public static void main(String[] args) {
         // Desafio diário: 03/100
-        // wrappers
-        //Conversão de tipos primitivos
-        //Conversão de numérico para string
-        //Conversão de string para numérico
 
         //simular o fechamento de um serviço na oficina. O sistema vai receber os valores como texto
         // (simulando uma entrada de sistema web ou banco de dados),

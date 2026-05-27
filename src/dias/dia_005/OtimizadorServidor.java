@@ -5,9 +5,6 @@ public class OtimizadorServidor {
         // Desafio 05/100
         // Otimizador de Servidor
 
-        // Operadores Aritméticos
-        // Função Math
-
         // SSD Antigo
         double oldSSDBase = Math.pow(2, 10);
         double oldSSD = Math.floor(240.76);

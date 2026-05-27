@@ -5,7 +5,6 @@ import javax.swing.*;
 public class DiagnosticoComputador {
     public static void main(String[] args) {
         // Desafio diário: 06/100
-        // Operadores
 
         // Desafio do Dia: O Sistema de Diagnóstico Automatizado
 

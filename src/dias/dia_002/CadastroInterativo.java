@@ -3,7 +3,7 @@ package dias.dia_002;
 import java.util.Date;
 import java.util.Scanner;
 
-public class Day002 {
+public class CadastroInterativo {
     public static void main(String[] args) {
         // Desafio diário: 02/100
         // Import; Console(Scanner); Tipo String

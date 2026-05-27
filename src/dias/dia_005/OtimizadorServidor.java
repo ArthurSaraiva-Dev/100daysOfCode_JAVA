@@ -1,6 +1,6 @@
 package dias.dia_005;
 
-public class Day005 {
+public class OtimizadorServidor {
     public static void main(String[] args) {
         // Desafio 05/100
         // Otimizador de Servidor

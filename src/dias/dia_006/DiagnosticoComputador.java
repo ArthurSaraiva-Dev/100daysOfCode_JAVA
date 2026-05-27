@@ -2,7 +2,7 @@ package dias.dia_006;
 
 import javax.swing.*;
 
-public class Day006 {
+public class DiagnosticoComputador {
     public static void main(String[] args) {
         // Desafio diário: 06/100
         // Operadores

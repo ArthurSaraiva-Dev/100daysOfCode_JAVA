@@ -1,6 +1,6 @@
 package dias.dia_001;
 
-public class Day001 {
+public class OrdemServico {
     public static void main(String[] args) {
         // Desafio diário: 01/100
         // Tipos primitivos

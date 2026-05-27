@@ -2,7 +2,7 @@ package dias.dia_003;
 
 import java.util.Scanner;
 
-public class Day003 {
+public class TaxaEParcelamento {
     public static void main(String[] args) {
         // Desafio diário: 03/100
         // wrappers

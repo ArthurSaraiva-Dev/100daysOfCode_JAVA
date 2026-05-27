@@ -2,7 +2,7 @@ package dias.dia_004;
 
 import java.util.Scanner;
 
-public class Day004 {
+public class GeradorNotas {
     public static void main(String[] args) {
         // Desafio diário: 04/100
         // Wrappers

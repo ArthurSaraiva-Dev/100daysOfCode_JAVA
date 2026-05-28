@@ -36,8 +36,6 @@ public class Day008 {
         }else if (initialServicePrice >= 200.00){
             discount = ((initialServicePrice / 100) * 10); // 10% de desconto
             quantDiscount = "10%";
-        }else{
-            System.out.println("Não há desconto");
         }
 
         double finalServicePrice = initialServicePrice - discount;

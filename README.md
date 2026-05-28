@@ -14,10 +14,11 @@ Repositório criado para registrar minha jornada no desafio #100DaysOfCode, foca
 | 001  | Tipos Primitivos | Ordem de Serviço | [Código](src/dias/dia_001) |
 | 002  | Tipo String | Cadastro Interativo | [Código](src/dias/dia_002) |
 | 003  | Conversão de Tipos | Taxa e Parcelamento | [Código](src/dias/dia_003) |
-| 004  | Wrappers & Conversão de Tipos | Gerador De Notas | [Código](src/dias/dia_004) |
+| 004  | Wrappers & Conversão de Tipos | Gerador de Notas | [Código](src/dias/dia_004) |
 | 005  | Operadores Aritméticos | Otimizador Servidor | [Código](src/dias/dia_005) |
 | 006  | Operadores (Geral) | Diagnósticos de Computadores | [Código](src/dias/dia_006) |
-| 007  | Fundamentais JAVA | Contador De Upgrades | [Código](src/dias/dia_007) |
+| 007  | Fundamentais JAVA | Contador de Upgrades | [Código](src/dias/dia_007) |
+| 008  | Estrutura de Controle (IF/ELSE IF) | Triagem de Descontos | [Código](src/dias/dia_008) |
 
 ---
 *Desafio iniciado em: [20/05/2026]*

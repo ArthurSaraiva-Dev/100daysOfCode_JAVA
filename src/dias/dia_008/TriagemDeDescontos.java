@@ -2,7 +2,7 @@ package dias.dia_008;
 
 import javax.swing.*;
 
-public class Day008 {
+public class TriagemDeDescontos {
     public static void main(String[] args) {
         // Desafio 8 - Sistema Inteligente de Triagem de Descontos
 

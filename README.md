@@ -19,6 +19,7 @@ Repositório criado para registrar minha jornada no desafio #100DaysOfCode, foca
 | 006  | Operadores (Geral) | Diagnósticos de Computadores | [Código](src/dias/dia_006) |
 | 007  | Fundamentais JAVA | Contador de Upgrades | [Código](src/dias/dia_007) |
 | 008  | Estrutura de Controle (IF/ELSE IF) | Triagem de Descontos | [Código](src/dias/dia_008) |
+| 009  | Loops (while, do while, for) | Simulador de Investimento | [Código](src/dias/dia_009) |
 
 ---
 *Desafio iniciado em: [20/05/2026]*

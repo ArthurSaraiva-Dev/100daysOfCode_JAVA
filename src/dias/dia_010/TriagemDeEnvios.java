@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class TriagemDeEnvios {
     public static void main(String[] args) {
-        // Desafio 8 - Sistema de Roteamento de Entregas
+        // Desafio 10 - Sistema de Roteamento de Entregas
         // Taxa Sudeste = 15,00
         // Taxa Nordeste = 30,00
         // Taxa Sul = 20,00

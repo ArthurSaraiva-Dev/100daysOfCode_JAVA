@@ -21,6 +21,7 @@ Repositório criado para registrar minha jornada no desafio #100DaysOfCode, foca
 | 008  | Estrutura de Controle (IF/ELSE IF) | Triagem de Descontos | [Código](src/dias/dia_008) |
 | 009  | Loops (while, do while, for) | Simulador de Investimento | [Código](src/dias/dia_009) |
 | 010  | Estruturas de Controle (Geral) | Sistema de Roteamento de Entregas | [Código](src/dias/dia_010) |
+| 011  | Fixando Estruturas de Controle | Sistema de Buffer e Tarifação | [Código](src/dias/dia_011) |
 
 ---
 *Desafio iniciado em: [20/05/2026]*

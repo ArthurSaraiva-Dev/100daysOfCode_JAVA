@@ -22,6 +22,7 @@ Repositório criado para registrar minha jornada no desafio #100DaysOfCode, foca
 | 009  | Loops (while, do while, for) | Simulador de Investimento | [Código](src/dias/dia_009) |
 | 010  | Estruturas de Controle (Geral) | Roteamento de Entregas | [Código](src/dias/dia_010) |
 | 011  | Fixando Estruturas de Controle | Buffer e Tarifação | [Código](src/dias/dia_011) |
+| 012  | Classes | Controle de Aeronaves | [Código](src/dias/dia_012) |
 
 ---
 *Desafio iniciado em: [20/05/2026]*

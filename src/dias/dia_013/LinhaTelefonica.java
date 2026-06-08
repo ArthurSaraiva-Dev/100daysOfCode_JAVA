@@ -40,7 +40,7 @@ public class LinhaTelefonica {
         if (this.credito >= 30.0){
             this.credito -= 30.0;
             this.planoAtivo = true;
-            return String.format("[SUCESSO NA ATIVAÇÃO] %s, plano ativado! " +
+            return String.format("[SUCESSO NA ATIVAÇÃO] %s, Seu Plano Ativado! " +
                     "\nSaldo Restante: R$%.2f",this.nomeCliente, this.credito);
         }else {
             return String.format("[FALHA NA ATIVAÇÃO] %s, SALDO INSUFICIENTE! " +
@@ -55,12 +55,9 @@ public class LinhaTelefonica {
         }
 
         this.credito += valorRecarga;
-        return String.format("%s, sua recarga de R$%.1f foi realizada com sucesso!", this.nomeCliente, this.credito);
+        return String.format("%s, Sua Recarga de R$%.1f Foi Realizada Com Sucesso!", this.nomeCliente, this.credito);
     }
 
-    String exibirRecarga(){
-     return String.format("%s, sua recarga de R$%.1f foi realizada com sucesso!", nomeCliente, credito);
-    }
 
     String exibirStatus(){
         return this.planoAtivo ? "ATIVO" : "INATIVO";

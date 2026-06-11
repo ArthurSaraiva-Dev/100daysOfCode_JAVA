@@ -24,6 +24,7 @@ Repositório criado para registrar minha jornada no desafio #100DaysOfCode, foca
 | 011  | Fixando Estruturas de Controle | Buffer e Tarifação | [Código](src/dias/dia_011) |
 | 012  | Classes | Controle de Aeronaves | [Código](src/dias/dia_012) |
 | 013  | Classes, Métodos | Gerenciador Telecom | [Código](src/dias/dia_013) |
+| 014  | Gerenciamento de Memória | Sistema Governamental | [Código](src/dias/dia_014) |
 
 ---
 *Desafio iniciado em: [20/05/2026]*

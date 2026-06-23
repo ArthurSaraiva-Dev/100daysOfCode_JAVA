@@ -26,6 +26,7 @@ Repositório criado para registrar minha jornada no desafio #100DaysOfCode, foca
 | 013  | Classes, Métodos | Gerenciador Telecom | [Código](src/dias/dia_013) |
 | 014  | Gerenciamento de Memória | Sistema Governamental | [Código](src/dias/dia_014) |
 | 015  | POO | Sistema de Investimentos | [Código](src/dias/dia_015) |
+| 016  | Fixando POO | Catraca Inteligente | [Código](src/dias/dia_016) |
 
 ---
 *Desafio iniciado em: [20/05/2026]*

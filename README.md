@@ -27,6 +27,7 @@ Repositório criado para registrar minha jornada no desafio #100DaysOfCode, foca
 | 014  | Gerenciamento de Memória | Sistema Governamental | [Código](src/dias/dia_014) |
 | 015  | POO | Sistema de Investimentos | [Código](src/dias/dia_015) |
 | 016  | Fixando POO | Catraca Inteligente | [Código](src/dias/dia_016) |
+| 017  | Matrizes | Sistema Portuário | [Código](src/dias/dia_017) |
 
 ---
 *Desafio iniciado em: [20/05/2026]*
